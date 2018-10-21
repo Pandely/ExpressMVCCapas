@@ -1,7 +1,7 @@
-H:\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\SysDataAccess.java
-H:\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\dao\ProductoDaoI.java
-H:\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\dao\ProductoDaoImpl.java
-H:\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\modelo\Producto.java
-H:\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\modelo\Persona.java
-H:\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\HibernateConfiguration.java
-H:\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\modelo\Usuario.java
+N:\2018-2\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\SysDataAccess.java
+N:\2018-2\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\dao\ProductoDaoImpl.java
+N:\2018-2\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\dao\ProductoDaoI.java
+N:\2018-2\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\modelo\Producto.java
+N:\2018-2\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\modelo\Persona.java
+N:\2018-2\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\modelo\Usuario.java
+N:\2018-2\LP2\ExpressMVCCapas\ExpressMVC-Core\src\main\java\pe\com\express\HibernateConfiguration.java
